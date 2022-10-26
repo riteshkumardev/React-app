@@ -1,0 +1,13 @@
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const MULTIPLY = "MULTIPLY";
+export const DIVIDE = "DIVIDE";
+export const PERCENTAGE = "PERCENTAGE";
+export const DELETEITEM = "DELETEITEM";
+export const EDITITEM = "EDITITEM";
+export const INPUTDATA = "INPUTDATA";
+export const UPDATEDATA = "UPDATEDATA";
+export const INPUTFORMDATA = "INPUTFORMDATA";
+export const DELETEFORMDATA = "DELETEFORMDATA";
+export const EDITDATA = "EDITDATA";
+export const UPDATE_DATA = "UPDATE_DATA";
